@@ -1,0 +1,1 @@
+Made this in my first year of university, this is also m first time with java, the bot talks with the person via terminal and then if you curse a lot you get banished to the shadow realm by mordekaiser.
